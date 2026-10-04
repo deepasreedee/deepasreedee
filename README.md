@@ -9,13 +9,16 @@
 - 🎓 **What I Study:** Pursuing B.Tech in Information Technology at St. Joseph's College of Engineering, Chennai.
 - 🚀 **Core Target:** Working toward becoming a professional Software Developer.
 - 🎨 **Interests:** Building clean, user-friendly interfaces with UI/UX design alongside solid programming logic.
+- 🛠️ **Project Pride:** I turn ideas into simple working projects, exploring how programming and technology can solve everyday problems.
+- 💬 **Ask me about:** C programming basics, logical problem-solving, beginner-level programming, and my journey into Information Technology.
 - 📚 **Currently Learning:** C programming fundamentals and UI/UX design principles.
+- ⚡ **Fun fact:** I love learning by experimenting_even when my first attempt doesn't work!
 
 ## 🛠 Tech Stack & Tooling
 
 | Domain | Technologies & Tools |
 |---|---|
-| Languages | C (Learning) |
+| Languages | C (Learning) phyton |
 | Design | UI/UX Design |
 | Tools & Environments | Git, GitHub, VS Code |
 
